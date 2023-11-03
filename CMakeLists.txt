@@ -14,7 +14,7 @@ find_package(Qt5 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(module_37_1 main.cpp)
+add_executable(module_37_1 main.cpp calculator.ui)
 target_link_libraries(module_37_1
         Qt5::Core
         Qt5::Gui
