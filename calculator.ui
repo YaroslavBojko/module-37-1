@@ -180,5 +180,76 @@
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>pushButton_3</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>addition()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>76</x>
+     <y>431</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>85</x>
+     <y>512</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_4</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>subtraction()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>252</x>
+     <y>418</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>265</x>
+     <y>512</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>multiplication()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>412</x>
+     <y>429</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>432</x>
+     <y>513</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>division()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>599</x>
+     <y>430</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>617</x>
+     <y>510</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>addition()</slot>
+  <slot>subtraction()</slot>
+  <slot>multiplication()</slot>
+  <slot>division()</slot>
+ </slots>
 </ui>

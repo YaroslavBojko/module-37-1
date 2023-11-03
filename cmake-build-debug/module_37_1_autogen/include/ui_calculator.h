@@ -147,6 +147,10 @@ public:
         MainWindow->setStatusBar(statusbar);
 
         retranslateUi(MainWindow);
+        QObject::connect(pushButton_3, SIGNAL(clicked()), MainWindow, SLOT(addition()));
+        QObject::connect(pushButton_4, SIGNAL(clicked()), MainWindow, SLOT(subtraction()));
+        QObject::connect(pushButton_2, SIGNAL(clicked()), MainWindow, SLOT(multiplication()));
+        QObject::connect(pushButton, SIGNAL(clicked()), MainWindow, SLOT(division()));
 
         QMetaObject::connectSlotsByName(MainWindow);
     } // setupUi
