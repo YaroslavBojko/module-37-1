@@ -189,7 +189,8 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				3
+				3,
+				4
 			]
 		}
 	],
@@ -212,6 +213,11 @@
 			"backtrace" : 1,
 			"path" : "calculator.ui",
 			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "callmainwindow.h",
+			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
