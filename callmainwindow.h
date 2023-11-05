@@ -18,14 +18,62 @@ public:
     QLCDNumber* lcdNumber = nullptr;
     CallMainWindow(QWidget* parent = nullptr) : QMainWindow(parent) {}
 
+    bool valueError (int& value1, int& value2)
+    {
+        bool correctValue1 = true;
+        bool correctValue2 = true;
+
+        value1 = lineEdit_2->text().toInt(&correctValue1);
+        value2 = lineEdit->text().toInt(&correctValue2);
+
+        return (correctValue1 && correctValue2);
+    }
+
+
 public slots:
     void addition()
     {
-        lcdNumber->display(lineEdit_2->text().toInt() + lineEdit->text().toInt());
+        int value1 {0};
+        int value2 {0};
+
+        if(valueError(value1,value2))
+            lcdNumber->display(value1 + value2);
+        else
+            lcdNumber->display("ERROR");
     };
-    void subtraction(){};
-    void multiplication(){};
-    void division(){};
+
+    void subtraction()
+    {
+        int value1 {0};
+        int value2 {0};
+
+        if(valueError(value1,value2))
+            lcdNumber->display(value1 - value2);
+        else
+            lcdNumber->display("ERROR");
+    };
+
+    void multiplication()
+    {
+        int value1 {0};
+        int value2 {0};
+
+        if(valueError(value1,value2))
+            lcdNumber->display(value1 * value2);
+        else
+            lcdNumber->display("ERROR");
+    };
+
+    void division()
+    {
+        int value1 {0};
+        int value2 {0};
+
+        if(valueError(value1,value2))
+            lcdNumber->display(value1 / value2);
+        else
+            lcdNumber->display("ERROR");
+    };
 
 };
 

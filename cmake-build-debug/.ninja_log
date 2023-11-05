@@ -1,79 +1,23 @@
 # ninja log v5
-3397	4540	7207321833877594	module_37_1.exe	be97fbbd58b6ef59
-3	818	7207344361782519	build.ninja	49b565e42f37a083
-6	318	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-6	318	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-233	393	7207290321719834	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
-6	318	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-319	3396	7207321829236354	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-6	318	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-6	318	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-6	318	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-19	880	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-19	880	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-19	880	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-19	880	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-19	880	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-19	880	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-881	2455	7208645269378413	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
-915	2528	7208645270210411	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-2528	3778	7208645275338710	module_37_1.exe	be97fbbd58b6ef59
-8	661	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-8	661	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-8	661	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-8	661	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-8	661	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-8	661	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-662	2079	7208646183321247	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
-692	2177	7208646184274878	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-2177	3189	7208646188085085	module_37_1.exe	be97fbbd58b6ef59
-7	641	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	641	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	641	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-7	641	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	641	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	641	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-642	2050	7208650313074802	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
-670	2132	7208650313949540	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-2132	3092	7208650317082342	module_37_1.exe	be97fbbd58b6ef59
-8	107	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-8	107	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-8	107	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-8	107	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-8	107	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-8	107	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-108	1564	7208650871702905	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-1565	2475	7208650874560630	module_37_1.exe	be97fbbd58b6ef59
-7	639	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	639	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	639	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-7	639	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	639	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	639	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-641	2052	7208656443353283	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
-672	2146	7208656444462246	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-2147	3068	7208656447450975	module_37_1.exe	be97fbbd58b6ef59
-6	620	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-6	620	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-6	620	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-6	620	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-6	620	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-6	620	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-621	2040	7208659705409732	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
-657	2159	7208659706614348	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-2160	3089	7208659709666257	module_37_1.exe	be97fbbd58b6ef59
-7	638	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	638	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	638	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-7	638	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	638	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	638	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-639	2049	7208663552151734	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
-672	2132	7208663553018243	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
-2132	3227	7208663556573656	module_37_1.exe	be97fbbd58b6ef59
-7	97	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	97	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	97	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
-7	97	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
-7	97	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
-7	97	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
+2200	3177	7208758065289679	module_37_1.exe	be97fbbd58b6ef59
+3	818	7208733507733560	build.ninja	49b565e42f37a083
+8	99	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
+8	99	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
+685	2114	7208758061224080	CMakeFiles/module_37_1.dir/module_37_1_autogen/mocs_compilation.cpp.obj	c6bf39644f0bae75
+8	99	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
+655	2199	7208758062139267	CMakeFiles/module_37_1.dir/main.cpp.obj	ef3897ea6efc078a
+8	99	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
+8	99	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
+8	99	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
+7	93	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
+7	93	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
+7	93	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
+7	93	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
+7	93	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
+7	93	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
+6	94	0	CMakeFiles/module_37_1_autogen	85ff7824e3143f45
+6	94	0	module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
+6	94	0	module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
+6	94	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/CMakeFiles/module_37_1_autogen	85ff7824e3143f45
+6	94	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/mocs_compilation.cpp	85ff7824e3143f45
+6	94	0	C:/Users/yaros/CLionProjects/module 37.1/cmake-build-debug/module_37_1_autogen/include/ui_calculator.h	85ff7824e3143f45
